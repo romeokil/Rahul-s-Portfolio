@@ -9,9 +9,19 @@ import Image from "next/image"
 
 const projects = [
   {
+    title: "MausamMitra- AI Weather and Travel Assistant",
+    description:
+      "An AI-powered weather and travel assistant web application that provides real-time weather updates, travel recommendations, and personalized itineraries based on user preferences. Integrated geolocation services to offer location-specific weather forecasts and travel tips.",
+    image: "https://dq8l4o3au0fto.cloudfront.net/images/Article_Images/ImageForArticle_220_17095893410122635.jpg",
+    technologies: ["ReactJS", "Tailwind CSS", "NodeJS", "Geolocation"],
+    github: "https://github.com/romeokil/ai-agent-2",
+    demo: "https://ai-agent-2-h19p.onrender.com/",
+    featured: true,
+  },
+  {
     title: "Job-Portal Management System",
     description:
-      "Developed a full-featured MERN stack job portal enabling role-based access for applicants and recruiters. Applicants can view, apply, and track job statuses, while recruiters can manage and update applications. Integrated Cloudinary to handle profile images and resumes efficiently.rd.",
+      "Developed a full-featured MERN stack job portal enabling role-based access for applicants and recruiters. Applicants can view, apply, and track job statuses, while recruiters can manage and update applications. Integrated Cloudinary to handle profile images and resumes efficiently.",
     image: "https://tse1.mm.bing.net/th/id/OIP.CJWM5apDQbJUB_hCq_9MpQHaGJ?pid=Api&P=0&h=180",
     technologies: ["ReactJS", "Tailwind CSS", "NodeJS", "Cloudinary", "MongoDB"],
     github: "https://github.com/romeokil/job-portal",
@@ -23,7 +33,7 @@ const projects = [
     description:
       "Designed a user-friendly task management app featuring light/dark modes and JWT-based authorization. Leveraged Context API for managing user sessions, and used Tailwind CSS to ensure responsiveness across devices",
     image: "https://tse2.mm.bing.net/th/id/OIP.JqRBTydEfD7r4tKAYCfOvQHaDz?pid=Api&P=0&h=180",
-    technologies: ["ReactJS", "NodeJS", "Tailwind Css", "MongoDB",],
+    technologies: ["ReactJS", "NodeJS", "Tailwind Css", "MongoDB", "Docker"],
     github: "https://github.com/romeokil/mern-todo",
     demo: "https://mern-todo-wmhj.onrender.com",
     featured: true,
