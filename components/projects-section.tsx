@@ -9,6 +9,15 @@ import Image from "next/image"
 
 const projects = [
   {
+    title:"DSASutra",
+    description:"DSA Expert RAG Agent powered by Gemini. It uses LangChain in a Node.js environment to manage document chunking, embedding, and query retrieval from a Pinecone vector database, ensuring precise, context-aware answer",
+    image:"https://play.google.com/store/apps/details?id=com.malab.datastructuresandalgorithms",
+    technologies:["NodeJS","Langchain","Pinecone","Gemini AI"],
+    github:"https://github.com/romeokil/ai-agent-6",
+    demo:"https://github.com/romeokil/ai-agent-6",
+    featured:true
+  },
+  {
     title: "MausamMitra- AI Weather and Travel Assistant",
     description:
       "An AI-powered weather and travel assistant web application that provides real-time weather updates, travel recommendations, and personalized itineraries based on user preferences. Integrated geolocation services to offer location-specific weather forecasts and travel tips.",
