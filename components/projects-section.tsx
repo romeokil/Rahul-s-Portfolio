@@ -11,7 +11,7 @@ const projects = [
   {
     title:"DSASutra",
     description:"DSA Expert RAG Agent powered by Gemini. It uses LangChain in a Node.js environment to manage document chunking, embedding, and query retrieval from a Pinecone vector database, ensuring precise, context-aware answer",
-    image:"https://play.google.com/store/apps/details?id=com.malab.datastructuresandalgorithms",
+    image:"https://play-lh.googleusercontent.com/d0lrhfyQBn7hMremTxji9pEv3T08uNRANY1iB1rUfIRqONNbDlVlnB2x-jbqqqXsSS-CLU8hSyST2_o4F_M8Vbo=w600-h300-pc0xffffff-pd",
     technologies:["NodeJS","Langchain","Pinecone","Gemini AI"],
     github:"https://github.com/romeokil/ai-agent-6",
     demo:"https://github.com/romeokil/ai-agent-6",
