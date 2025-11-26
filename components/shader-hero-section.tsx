@@ -103,7 +103,7 @@ export function ShaderHeroSection() {
                 repeatDelay: 3,
               }}
             >
-              Full-Stack Software Developer
+              Associate Software Developer
             </motion.span>
           </motion.h2>
 
@@ -114,8 +114,8 @@ export function ShaderHeroSection() {
             transition={{ delay: 0.5, duration: 0.8 }}
             className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed backdrop-blur-sm bg-background/5 p-4 rounded-lg border border-white/10"
           >
-            Passionate about creating exceptional digital experiences with modern technologies. Specializing in React,
-            Next.js, and Docker.
+            Passionate about Full Stack Development, AI, Devops, Cloud Technologies. Specializing in React,
+            Next.js , Docker and AI Agents.
           </motion.p>
 
           {/* Enhanced CTA Buttons */}

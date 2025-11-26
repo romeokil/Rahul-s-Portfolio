@@ -39,7 +39,7 @@ export function HeroSection() {
             transition={{ delay: 0.2, duration: 0.5 }}
           >
             <Badge variant="outline" className="px-4 py-2 text-sm border-blue-500/50 text-blue-400">
-              Available for new opportunities
+              Available for new opportunity
             </Badge>
           </motion.div>
 
@@ -60,7 +60,7 @@ export function HeroSection() {
             transition={{ delay: 0.4, duration: 0.8 }}
             className="text-2xl md:text-3xl font-semibold text-muted-foreground"
           >
-            Full-Stack Software Developer
+            Associate Software Developer
           </motion.h2>
 
           {/* Description */}
@@ -70,8 +70,8 @@ export function HeroSection() {
             transition={{ delay: 0.5, duration: 0.8 }}
             className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed"
           >
-            Passionate about creating exceptional digital experiences with modern technologies. Specializing in React,
-            Next.js and Docker.
+            Passionate about Full Stack Development, AI, Devops, Cloud Technologies. Specializing in React,
+            Next.js Docker and AI Agents.
           </motion.p>
 
           {/* CTA Buttons */}
